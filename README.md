@@ -1,22 +1,25 @@
-# Prep 01 Mid-Term Project
-# Group 04 
-1- Mohammad Alfayoume
+# Prep 01 Final Project
+# Group 01 
 
-2- Islam Alghoul
+1- Abdelrahman Alasal
 
-3- Lujain Aljarrah
+2- Mohammad Alfayoume
+
+3- Islam Alghoul
 
 4- Bayan Bushnaq
 
 5- Alaa Abualadoos
-
-6- Razan Alowedat
 
 ># Cooperation Plan
 
 ## 1- What are the key strengths of each person on the team?
 
 We noticed that each one in our group has a unique key strengths.
+
+> Abdelrahman Alasal
+
+Has a very good communication skills, motivated, has a leadership personality
 
 > Mohammad Alfayoume
 
@@ -26,10 +29,6 @@ Patient, work under pressure, good technically , good communication skills
 
 Fast learner, very good technically, good communication skills
 
-> Lujain Aljarrah
-
-Has a very good communication skills, motivated, has a leadership personality
-
 > Bayan Bushnaq
 
 Has a strong experience in technology, good communication skills
@@ -37,10 +36,6 @@ Has a strong experience in technology, good communication skills
 > Alaa Abualadoos
 
 Team player, work under pressure, good communication skills
-
-> Razan Alowedat
-
-Work under pressure, good searcher, good communication skills
 
 ## 2- How can you best utilize these strengths in the execution of your project?
 
